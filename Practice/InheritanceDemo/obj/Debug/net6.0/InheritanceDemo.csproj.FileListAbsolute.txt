@@ -1,0 +1,15 @@
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.exe
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.deps.json
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.runtimeconfig.json
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.dll
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.pdb
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.dll
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\obj\Debug\net6.0\refint\InheritanceDemo.dll
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.pdb
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\sagar.bhalsing\source\repos\InheritanceDemo\obj\Debug\net6.0\ref\InheritanceDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\bin\Debug\net6.0\ITestInterface.exe
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\bin\Debug\net6.0\ITestInterface.deps.json
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\bin\Debug\net6.0\ITestInterface.runtimeconfig.json
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\bin\Debug\net6.0\ITestInterface.dll
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\bin\Debug\net6.0\ITestInterface.pdb
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\obj\Debug\net6.0\ITestInterface.csproj.AssemblyReference.cache
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\obj\Debug\net6.0\ITestInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\obj\Debug\net6.0\ITestInterface.AssemblyInfoInputs.cache
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\obj\Debug\net6.0\ITestInterface.AssemblyInfo.cs
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\obj\Debug\net6.0\ITestInterface.csproj.CoreCompileInputs.cache
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\obj\Debug\net6.0\ITestInterface.dll
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\obj\Debug\net6.0\refint\ITestInterface.dll
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\obj\Debug\net6.0\ITestInterface.pdb
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\obj\Debug\net6.0\ITestInterface.genruntimeconfig.cache
+C:\Users\sagar.bhalsing\source\repos\ITestInterface\obj\Debug\net6.0\ref\ITestInterface.dll

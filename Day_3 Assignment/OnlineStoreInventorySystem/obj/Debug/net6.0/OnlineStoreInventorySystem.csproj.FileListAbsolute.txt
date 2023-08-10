@@ -1,0 +1,15 @@
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\bin\Debug\net6.0\OnlineStoreInventorySystem.exe
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\bin\Debug\net6.0\OnlineStoreInventorySystem.deps.json
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\bin\Debug\net6.0\OnlineStoreInventorySystem.runtimeconfig.json
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\bin\Debug\net6.0\OnlineStoreInventorySystem.dll
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\bin\Debug\net6.0\OnlineStoreInventorySystem.pdb
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.csproj.AssemblyReference.cache
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.AssemblyInfoInputs.cache
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.AssemblyInfo.cs
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.dll
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\obj\Debug\net6.0\refint\OnlineStoreInventorySystem.dll
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.pdb
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\obj\Debug\net6.0\OnlineStoreInventorySystem.genruntimeconfig.cache
+C:\Users\sagar.bhalsing\source\repos\OnlineStoreInventorySystem\obj\Debug\net6.0\ref\OnlineStoreInventorySystem.dll

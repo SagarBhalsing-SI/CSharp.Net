@@ -1,0 +1,15 @@
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\obj\Debug\net6.0\OnlineStore.csproj.AssemblyReference.cache
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\obj\Debug\net6.0\OnlineStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\obj\Debug\net6.0\OnlineStore.AssemblyInfoInputs.cache
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\obj\Debug\net6.0\OnlineStore.AssemblyInfo.cs
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\obj\Debug\net6.0\OnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\bin\Debug\net6.0\OnlineStore.exe
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\bin\Debug\net6.0\OnlineStore.deps.json
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\bin\Debug\net6.0\OnlineStore.runtimeconfig.json
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\bin\Debug\net6.0\OnlineStore.dll
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\bin\Debug\net6.0\OnlineStore.pdb
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\obj\Debug\net6.0\OnlineStore.dll
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\obj\Debug\net6.0\refint\OnlineStore.dll
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\obj\Debug\net6.0\OnlineStore.pdb
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\obj\Debug\net6.0\OnlineStore.genruntimeconfig.cache
+C:\Users\sagar.bhalsing\source\repos\OnlineStroe\obj\Debug\net6.0\ref\OnlineStore.dll

@@ -1,0 +1,15 @@
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.exe
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.deps.json
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.runtimeconfig.json
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.dll
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\bin\Debug\net6.0\OnlineShoppingCart.pdb
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.csproj.AssemblyReference.cache
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.AssemblyInfoInputs.cache
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.AssemblyInfo.cs
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.dll
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\obj\Debug\net6.0\refint\OnlineShoppingCart.dll
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.pdb
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\obj\Debug\net6.0\OnlineShoppingCart.genruntimeconfig.cache
+C:\Users\sagar.bhalsing\source\repos\OnlineShoppingCart\obj\Debug\net6.0\ref\OnlineShoppingCart.dll

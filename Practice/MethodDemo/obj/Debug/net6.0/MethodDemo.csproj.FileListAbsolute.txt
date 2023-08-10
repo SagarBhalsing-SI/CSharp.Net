@@ -1,0 +1,15 @@
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\bin\Debug\net6.0\MethodDemo.exe
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\bin\Debug\net6.0\MethodDemo.deps.json
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\bin\Debug\net6.0\MethodDemo.runtimeconfig.json
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\bin\Debug\net6.0\MethodDemo.dll
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\bin\Debug\net6.0\MethodDemo.pdb
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\obj\Debug\net6.0\MethodDemo.csproj.AssemblyReference.cache
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\obj\Debug\net6.0\MethodDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\obj\Debug\net6.0\MethodDemo.AssemblyInfoInputs.cache
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\obj\Debug\net6.0\MethodDemo.AssemblyInfo.cs
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\obj\Debug\net6.0\MethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\obj\Debug\net6.0\MethodDemo.dll
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\obj\Debug\net6.0\refint\MethodDemo.dll
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\obj\Debug\net6.0\MethodDemo.pdb
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\obj\Debug\net6.0\MethodDemo.genruntimeconfig.cache
+C:\Users\sagar.bhalsing\source\repos\MethodDemo\obj\Debug\net6.0\ref\MethodDemo.dll

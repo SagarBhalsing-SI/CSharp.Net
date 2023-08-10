@@ -1,0 +1,15 @@
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\bin\Debug\net6.0\StaticDemo.exe
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\bin\Debug\net6.0\StaticDemo.deps.json
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\bin\Debug\net6.0\StaticDemo.runtimeconfig.json
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\bin\Debug\net6.0\StaticDemo.dll
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\bin\Debug\net6.0\StaticDemo.pdb
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\obj\Debug\net6.0\StaticDemo.csproj.AssemblyReference.cache
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\obj\Debug\net6.0\StaticDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\obj\Debug\net6.0\StaticDemo.AssemblyInfoInputs.cache
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\obj\Debug\net6.0\StaticDemo.AssemblyInfo.cs
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\obj\Debug\net6.0\StaticDemo.csproj.CoreCompileInputs.cache
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\obj\Debug\net6.0\StaticDemo.dll
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\obj\Debug\net6.0\refint\StaticDemo.dll
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\obj\Debug\net6.0\StaticDemo.pdb
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\obj\Debug\net6.0\StaticDemo.genruntimeconfig.cache
+C:\Users\sagar.bhalsing\source\repos\StaticDemo\obj\Debug\net6.0\ref\StaticDemo.dll

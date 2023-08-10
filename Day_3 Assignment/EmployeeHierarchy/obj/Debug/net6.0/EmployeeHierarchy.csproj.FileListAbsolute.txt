@@ -1,0 +1,15 @@
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.exe
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.deps.json
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.runtimeconfig.json
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.dll
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\bin\Debug\net6.0\EmployeeHierarchy.pdb
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.csproj.AssemblyReference.cache
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.AssemblyInfoInputs.cache
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.AssemblyInfo.cs
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.csproj.CoreCompileInputs.cache
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.dll
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\obj\Debug\net6.0\refint\EmployeeHierarchy.dll
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.pdb
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\obj\Debug\net6.0\EmployeeHierarchy.genruntimeconfig.cache
+C:\Users\sagar.bhalsing\source\repos\EmployeeHierarchy\obj\Debug\net6.0\ref\EmployeeHierarchy.dll

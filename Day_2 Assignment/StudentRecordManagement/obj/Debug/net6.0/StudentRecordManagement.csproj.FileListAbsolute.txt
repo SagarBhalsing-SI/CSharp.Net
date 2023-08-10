@@ -1,0 +1,15 @@
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.exe
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.deps.json
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.runtimeconfig.json
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.dll
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\bin\Debug\net6.0\StudentRecordManagement.pdb
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.csproj.AssemblyReference.cache
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.AssemblyInfoInputs.cache
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.AssemblyInfo.cs
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.csproj.CoreCompileInputs.cache
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.dll
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\obj\Debug\net6.0\refint\StudentRecordManagement.dll
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.pdb
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\obj\Debug\net6.0\StudentRecordManagement.genruntimeconfig.cache
+C:\Users\sagar.bhalsing\source\repos\StudentRecordManagement\obj\Debug\net6.0\ref\StudentRecordManagement.dll
