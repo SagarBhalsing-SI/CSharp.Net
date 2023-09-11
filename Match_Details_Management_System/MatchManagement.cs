@@ -17,7 +17,11 @@
             Console.WriteLine("==============================================================================================");
             Matches.ForEach(p => Console.WriteLine(p + "\n" + "========================================="));
         }
-
+        public void AddMatch()
+        {
+            MatchDetails m = new MatchDetails(ui.getId(), ui.getSport(), new DateTime(ui.getYear(), ui.getMonth(), ui.getDay(), 12, 0, 0), ui.getLocation(),ui.getHomeTeam(), ui.getAwayTeam(), ui.getNewHomeTeamScore(),ui.getNewAwayTeamScore());
+            Matches.Add(m);
+        }
         public void GetMatchById()
         {
             int id = ui.getId();
