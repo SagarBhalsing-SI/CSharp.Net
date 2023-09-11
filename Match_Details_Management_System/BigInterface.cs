@@ -74,7 +74,7 @@ namespace Match_Details_Management_System
                                         }
                                     case 3:
                                         {
-                                            matchFilter.FilterMatchesBySportDate(ui.getYear(), ui.getMonth(), ui.getDay());
+                                            matchFilter.FilterMatchesBySportDate(ui.getYear(), ui.getMonth(), ui.getDay(),ui.getBeforeOrAfter());
                                             break;
                                         }
 
