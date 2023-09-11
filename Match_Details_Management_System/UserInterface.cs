@@ -1,4 +1,4 @@
-﻿namespace Match_Details_Management_System
+namespace Match_Details_Management_System
 {
     internal class UserInterface
     {
@@ -11,16 +11,41 @@
             return id;
         }
 
+        public string getSport()
+        {
+
+            Console.WriteLine("Enter Sport:");
+             string sport =Console.ReadLine();
+            return sport;
+        }
+
+        public string getLocation()
+        {
+            Console.WriteLine("Enter Match Location:");
+            string location =Console.ReadLine();
+            return location;
+        }
         public int getNewHomeTeamScore()
         {
-            Console.WriteLine("Enter New Score:");
+            Console.WriteLine("Enter Score:");
             int score = Convert.ToInt32(Console.ReadLine());
             return score;
         }
-
+        public string getHomeTeam()
+        {
+            Console.WriteLine("Enter Home Team Name");
+            string homeTeam = Console.ReadLine();
+            return homeTeam;
+        }
+        public string getAwayTeam()
+        {
+            Console.WriteLine("Enter Away Team Name");
+            string awayTeam = Console.ReadLine();
+            return awayTeam;
+        }
         public int getNewAwayTeamScore()
         {
-            Console.WriteLine("Enter New Score:");
+            Console.WriteLine("Enter  Score:");
             int score = Convert.ToInt32(Console.ReadLine());
             return score;
         }
