@@ -133,6 +133,12 @@ namespace Match_Details_Management_System
             int Day = Convert.ToInt32(Console.ReadLine());
             return Day;
         }
+        public string getBeforeOrAfter()
+        {
+            Console.WriteLine("Enter if you want to see matches before or after");
+            string beforeOrafter= Console.ReadLine();
+            return beforeOrafter;
+        }
 
         public static void getSportsManagementSystem()
         {
