@@ -15,11 +15,11 @@ namespace Match_Details_Management_System
                 Console.WriteLine("==========================================================================================");
                 Console.WriteLine("1. Display Matches\n" +
                                   "2. Add Match\n"+
-                                  "2. Display Matche By Id\n" +
-                                  "3. Update Score By Id\n" +
-                                  "4. Remove Match By Id\n" +
-                                  "5. Extra Feature\n" +
-                                  "6. Exit\n");
+                                  "3. Display Matche By Id\n" +
+                                  "4. Update Score By Id\n" +
+                                  "5. Remove Match By Id\n" +
+                                  "6. Extra Feature\n" +
+                                  "7. Exit\n");
 
                 int choice = Convert.ToInt32(Console.ReadLine());
                 switch (choice)
